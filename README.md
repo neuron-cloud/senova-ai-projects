@@ -8,7 +8,7 @@ This space showcases my pivot into AI, healthtech, and systems strategy. I’m b
 
 ## 🔧 Projects
 
-### 🔹 NEURA: Consult Risk Flagging Engine
+### 🔹 Synapse: Consult Risk Flagging Engine
 > Real-time triage insights for neurosurgical consults
 
 - Built in Python using logic rules and keyword parsing
