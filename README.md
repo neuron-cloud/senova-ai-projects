@@ -15,7 +15,7 @@ This space showcases my pivot into AI, healthtech, and systems strategy. I’m b
 - Deployed in Google Colab with real anonymized blurbs
 - Automatically flags risk phrases (e.g. “MLS”, “clonus”, “coagulopathy”)
 - Refined logic to exclude false positives and handle clinical nuance
-- [View NEURA Repo →](https://github.com/neuron-cloud/neura-prototype)
+- [View Synapse Repo →](https://github.com/neuron-cloud/neura-prototype)
 
 ---
 
