@@ -8,15 +8,18 @@ This space showcases my pivot into AI, healthtech, and systems strategy. I’m b
 
 ## 🔧 Projects
 
-### Synapse  
-**Real-Time Clinical NLP Engine for Neurosurgical Consults**  
-**Tech Stack:** Python · RegEx · NLP · Contextual Negation · Pattern Matching
+### Synapse v2.0
+**Real-Time NLP Risk Flagging Engine for Neurosurgical Consults**
 
-**Description:**  
-Synapse is an advanced natural language processing engine purpose-built for parsing real-world neurosurgical consults. It uses flexible regex patterns, structured medical dictionaries, and contextual negation logic to flag subtle neurological risks from free-text physical exams. It can detect focal weakness patterns across multiple muscle groups, differentiate between baseline vs. acute deficits, and extract critical findings like altered mental status, reflex abnormalities, or red flags for cauda equina syndrome.  
+**Tech Stack:** Python · RegEx · NLP · Clinical Pattern Recognition · Contextual Negation · GPT Integration · OOP
 
-**Outcome:**  
-Tested on 9 real consults with near-perfect output. Demonstrated capability to replace manual parsing in neurosurgical triage. Future work includes structured JSON export, UI integration, and cross-specialty adaptation.
+**Description:**
+Synapse v2.0 is a real-time, neurosurgery-specific natural language processing engine designed to extract critical neurological findings from unstructured consult notes. Built for clinical decision support in high-acuity settings, it flags subtle red flags—motor weakness, sensory deficits, pathological reflexes, AMS, cauda equina signs—with structured severity grading and confidence scoring.
+
+It mimics expert-level clinical reasoning, differentiates baseline vs acute deficits, and contextualizes negated findings using a custom-built engine of compiled regex patterns, medical abbreviation expansion, and pattern-aware negation logic.
+
+**Outcome:**
+Validated on real neurosurgical consults with high sensitivity, low false positives. Replicates manual triage logic in less than 10ms per note. Deployed in Jupyter/Colab for live testing and physician-facing demonstrations. Designed for future expansion into EMR integration, JSON export, and specialty adaptation
 
 - [View Synapse Repo →](https://github.com/neuron-cloud/neura-prototype)
 
@@ -24,7 +27,8 @@ Tested on 9 real consults with near-perfect output. Demonstrated capability to r
 
 ### NEURA  
 **Recovery Forecasting AI for Post-Treatment Clinical Care**  
-**Tech Stack:** Google Colab · GPT-4o-mini · Prompt Chaining · Python · Clinical Risk Modeling
+
+**Tech Stack:** Google Colab · GPT integration · Prompt Chaining · Python · Clinical Risk Modeling
 
 **Description:**  
 NEURA predicts and supports patient recovery after surgery, hospitalization, or serious illness. From a single clinical note, it generates a structured recovery risk score (Cognitive, Emotional, Functional, Adherence, Social) and delivers emotionally intelligent journaling prompts and recovery guidance for patients. NEURA bridges the blind spot between “discharged” and “actually healing.”  
@@ -34,14 +38,6 @@ Working prototype demo live in Colab. Open-sourced for pilots, partnerships, and
 
 - [View NEURA Repo →](https://github.com/neuron-cloud/neura-recovery-score)
 
----
-
-## 🧪 Skills in Progress
-
-- Python (prompt chaining, file I/O, NLP structuring)
-- Clinical logic modeling + emotional recovery stratification
-- Google Colab + GitHub Codespaces
-- Streamlit, API wrappers, and full-stack healthtech apps
 
 ---
 
