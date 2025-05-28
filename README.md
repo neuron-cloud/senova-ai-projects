@@ -30,7 +30,7 @@ It mimics expert-level clinical reasoning, differentiates baseline vs acute defi
 
 **Outcome:** Validated on real neurosurgical consults with high sensitivity, low false positives. Replicates manual triage logic in less than 10ms per note. Deployed in Jupyter/Colab for live testing and physician-facing demonstrations. Designed for future expansion into EMR integration, JSON export, and specialty adaptation.
 
-[→ View Synapse Repo](https://github.com/neuron-cloud/synapse)
+[→ View Synapse Repo](https://github.com/neuron-cloud/synapse-engine)
 
 ### NEURA
 **Recovery Forecasting AI for Post-Treatment Clinical Care**
@@ -41,7 +41,7 @@ It mimics expert-level clinical reasoning, differentiates baseline vs acute defi
 
 **Outcome:** Working prototype demo live in Colab. Open-sourced for pilots, partnerships, and feedback. Outputs explainable domain-level forecasts + Recovery OS patient support. Future plans include web deployment, structured PDF exports, and pilot testing with high-acuity clinical teams.
 
-[→ View NEURA Repo](https://github.com/neuron-cloud/neura)
+[→ View NEURA Repo](https://github.com/neuron-cloud/neura-recovery-score)
 
 ## 🎯 The Clinical AI Stack
 
