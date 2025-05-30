@@ -8,6 +8,19 @@ This space showcases my pivot into AI, healthtech, and systems strategy. I'm ble
 
 ## 🔧 Projects
 
+## Verdict AI
+**Human vs. AI Sentence Classifier**
+
+**Tech Stack:** Python · Scikit-learn · Random Forest · NLP Feature Engineering · Entropy Analysis · CSV Parsing · Jupyter/Colab Compatible
+
+**Description:** Verdict AI classifies sentences as either human-written or AI-generated using handcrafted NLP features (lexical diversity, readability, entropy, sentence variance) and a Random Forest model. Designed as a lightweight forensic tool for editorial screening, student work, or content authenticity detection.
+
+**Outcome:** Trained on labeled dataset with 85%+ accuracy with outputs binary classification with explainable features. Open-sourced and ready for experimentation, tuning, or pipeline integration
+
+[→ View Verdict AI Repo](https://github.com/neuron-cloud/verdict-ai)
+
+---
+
 ### Pathway AI
 **Autonomous Customer Support Agent for Airlines**
 
