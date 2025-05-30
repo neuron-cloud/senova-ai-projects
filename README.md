@@ -77,31 +77,53 @@ Built as a technical demo for JetBlue/Southwest-style support workflows, the age
 
 ## 🎯 The Clinical AI Stack
 
-My projects form a continuum of care and service intelligence:
+These projects form a full-stack care and intelligence pipeline:
 
-1. **Triage AI** → Front door risk stratification (Who needs help NOW?)  
-2. **Synapse v2.0** → Specialty-specific pattern recognition (What exactly is wrong?)  
-3. **NEURA** → Post-discharge recovery intelligence (How do we get them home safe?)  
-4. **Pathway AI** → Non-clinical service automation (How do we serve them better?)
+SYSTEM	FUNCTION
+1. Verdict AI	Authenticates authorship – Is this human or AI?
+   
+2. Triage AI	Front door triage – Who needs help now?
+   
+3. Synapse	Neuro consult parsing – What exactly is wrong?
+   
+4. NEURA	Post-discharge forecast – How will recovery unfold?
+   
+5. Pathway AI	Service automation – How do we serve them better?
 
-Together, they represent a vision for AI that enhances every touchpoint—clinical or operational.
+Together, they represent a vision for AI across the entire care journey—and beyond.
 
 ---
 
 ## 💬 Why This
 
-Because judgment deserves augmentation—and systems should care like humans.
+Because AI should augment, not replace.
+Because clinical care and customer experience deserve smarter, faster, more humane tools.
 
-I'm building tools I wish I had when the pager rang at 3AM. Tools that catch silent signs in a consult note, triage faster than human reflexes, and support patients after discharge. Tools that one day make customer service something you don’t dread.
+I’m building what I wish I had when I was on call:
+
+- NLP that catches hidden red flags
+
+- Triage engines that don’t miss subtle severity
+
+- Support agents that never burn out
+
+- Recovery tools that meet patients where they are
+
+- Classifiers that defend truth in the AI age
 
 ---
 
 ## 🚀 What's Next
 
-- **LLM Integration:** Expanding Gemini + Claude APIs across all projects  
-- **Pilot Partnerships:** Triage AI in telemedicine, Pathway AI in airline/banking sectors  
-- **Commercialization:** Building a secure, multi-agent backend with RAG + audit logging  
-- **Research:** Submitting abstracts and manuscripts on clinical validation and workflow impact
+- 🌐 LLM Expansion: Gemini + Claude integrations across stack
+
+- 🏥 Pilot Testing: Triage AI in telehealth, Verdict AI in education/academia
+
+- 🧠 Research: Submitting abstracts on NLP validation and triage impact
+
+- 🧰 Productization: Building a secure, multi-agent backend with RAG + audit trails
+
+
 
 ---
 
