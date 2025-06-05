@@ -3,7 +3,7 @@
 ## Mission
 
 To develop intelligent systems that elevate human care, cognition, and connection.
-Senova AI bridges the gap between logic and empathy—engineering tools that understand nuance, adapt to need, and scale trust.
+Senova AI bridges the gap between logic and empathy, engineering tools that understand nuance, adapt to need, and scale trust.
 
 ## Vision
 
