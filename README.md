@@ -1,9 +1,41 @@
-# 🧠 Myke's AI & Healthtech Portfolio
+# 🧠 Senova AI Portfolio
 
-Columbia-trained physician-scientist turned builder.
+## Mission
 
-This space showcases my pivot into AI, healthtech, and systems strategy. I'm blending clinical expertise with real technical execution—from NLP for neuro consults to real-time triage intelligence, autonomous agents, and recovery forecasting.
+To develop intelligent systems that elevate human care, cognition, and connection.
+Senova AI bridges the gap between logic and empathy—engineering tools that understand nuance, adapt to need, and scale trust.
 
+## Vision
+
+A future where artificial intelligence doesn’t just solve problems, but understands people.
+Senova empowers clinicians, creators, and caregivers with precision-guided, emotionally intelligent AI across medicine, mental health, and knowledge work.
+We believe the next leap in intelligence isn’t artificial. It’s collaborative.
+
+## Core Values
+
+**1. Human-First Design**
+
+We build for people, not just processes. Every Senova product is shaped around the real emotions, decisions, and challenges of its users.
+
+**2. Precision Meets Empathy**
+
+Our systems combine rigorous data intelligence with emotional awareness, delivering insight that’s not just accurate, but attuned.
+
+**3. Trust Through Transparency**
+
+We believe in clarity, not black boxes. Senova’s tools are built to explain, not obscure.
+
+**4. Innovation With Integrity**
+
+We chase the frontier but stay rooted in ethics, accountability, and long-term human impact.
+
+**5. Adaptable by Design**
+
+From clinical use to cognitive flow, our platforms are modular, interoperable, and built to scale across domains.
+
+**6. Undeniable Excellence**
+
+We aim not just to compete but to set the bar. From code to concept, every Senova product is built to earn trust and withstand scrutiny.
 ---
 
 ## 🔧 Projects
@@ -49,14 +81,32 @@ Built as a technical demo for JetBlue/Southwest-style support workflows, the age
 
 ---
 
-### Synapse v2.0
+### Synapse 
 **Real-Time NLP Risk Flagging Engine for Neurosurgical Consults**
 
-**Tech Stack:** Python · RegEx · NLP · Clinical Pattern Recognition · Contextual Negation · GPT Integration · OOP
+**Tech Stack:** Python · RegEx · NLP · Contextual Negation · Pattern Recognition · GPT-4 Integration · Object-Oriented Design
 
-**Description:** Synapse v2.0 is a real-time, neurosurgery-specific natural language processing engine designed to extract critical neurological findings from unstructured consult notes. Built for clinical decision support in high-acuity settings, it flags subtle red flags—motor weakness, sensory deficits, pathological reflexes, AMS, cauda equina signs—with structured severity grading and confidence scoring.
+**Description:**
+Synapse is a high-performance clinical NLP engine purpose-built for neurosurgical triage. It parses free-text consult notes to detect high-risk neurological findings in real time—flagging focal motor deficits, altered mental status, reflex abnormalities, sensory levels, and cauda equina features. Leveraging a structured severity model, contextual negation logic, and temporal progression filters, Synapse mimics expert-level triage reasoning with explainable outputs and sub-10ms processing speed.
 
-**Outcome:** Validated on real neurosurgical consults with high sensitivity, low false positives. Replicates manual triage logic in less than 10ms per note.
+**Key Features:**
+
+Structured severity classification (🚨 Critical, ⚠️ Warning, ✅ Normal)
+
+Advanced motor parsing with multi-muscle strength mapping
+
+Cauda equina detection engine (saddle anesthesia, retention, rectal tone)
+
+Context-aware negation (e.g., “intact except”, “denies”)
+
+Baseline vs. acute deficit filtering
+
+GPT-powered clinical summaries (optional)
+
+CLI + dashboard interface (v3.0 prototype deployed)
+
+**Outcome:**
+Validated across real neurosurgical consults with high sensitivity and minimal false positives. Now powering the clinical intelligence backbone of Senova AI's decision support tools.
 
 [→ View Synapse Repo](https://github.com/neuron-cloud/synapse-engine)
 
