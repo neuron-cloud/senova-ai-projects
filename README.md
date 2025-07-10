@@ -182,8 +182,3 @@ I’m building what I wish I had when I was on call:
 Building something similar? Have a use case? Let's talk.
 
 [LinkedIn](https://www.linkedin.com/in/mychael-delgardo-a258a8357/) | [Email](mailto:mwdelgardo@gmail.com) | [GitHub](https://github.com/neuron-cloud)
-
----
-
-*"The best time to plant a tree was 20 years ago. The second best time is now."*  
-*The best time to augment care, intelligence, and service? Right now.*
